@@ -64,6 +64,8 @@ nav #menu li a {
     text-decoration: none;
 }
 
+/*------------------ navbar ends here ------------- */
+
 
 #hero-image {
     position: relative;
@@ -83,6 +85,11 @@ nav #menu li a {
  text-align: center;
  padding-top: 20px;
  padding-bottom: 20px;
+}
+
+.about-header  {
+    font-size: 35px;
+    padding-bottom: 20px;
 }
    
 
@@ -138,10 +145,10 @@ button {
     padding-top: 35px;
 }
 
-.header {
+.header h1 {
     padding-bottom: 20px;
+    font-size: 35px;
 }
-
 
 
 /*------------------ contact form section ends here ------------- */
